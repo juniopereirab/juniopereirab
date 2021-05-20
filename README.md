@@ -25,9 +25,12 @@
 
 <br>
 
-[![JunioPereira's github stats](https://github-readme-stats.vercel.app/api?username=juniopereirab)](https://github.com/anuraghazra/github-readme-stats)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juniopereirab&layout=compact)
+<div align="center">
+	<img src="https://metrics.lecoq.io/juniopereirab?template=classic&base.community=0&base.repositories=0&activity=1&languages=1&isocalendar=1&followup=1&posts=1&stars=1&languages.ignored=Handlebars&posts.limit=1&posts.source=dev.to&isocalendar.duration=full-year&stars.limit=4&config.timezone=America%2FBelem"/>	
+</div>
 
+[![JunioPereira's github stats](https://github-readme-stats.vercel.app/api?username=juniopereirab)](https://github.com/anuraghazra/github-readme-stats)
+	![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juniopereirab&layout=compact)
 
 
 <!--
